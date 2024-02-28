@@ -1,0 +1,17 @@
+
+    h3{
+    color:black;
+    text-decoration: underline;
+    text-shadow: 2px 2px 1px grey;
+    direction: rtl;
+    font-family:Arial, Helvetica, sans-serif;
+    font-style:italic;
+ }
+ .parag{
+    word-spacing: 20px;
+    line-height: 0.8;
+    letter-spacing:2px;
+    text-indent: 50px;
+   
+    
+ }
